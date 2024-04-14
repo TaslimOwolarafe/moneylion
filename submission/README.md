@@ -15,7 +15,7 @@ Then run the Ollama setup file downloaded.
 
 Once installed run this command to start the Ollama server:
 ```
-Ollama serve
+ollama serve
 ```
 
 ##### Running the llama2 model locally using Ollama
