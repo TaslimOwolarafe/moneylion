@@ -10,6 +10,7 @@ For smallest models of 7B parameters, you need to have at least 8GB of RAM.
 You can install Ollama using the guide provided on Ollama github: [Ollama guide](https://github.com/ollama/ollama?tab=readme-ov-file).
 
 I am using a windows computer and I followed from the windows preview: [Windows Preview](https://github.com/ollama/ollama?tab=readme-ov-file#windows-preview)
+
 Then run the Ollama setup file downloaded.
 
 Once installed run this command to start the Ollama server:
